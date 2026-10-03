@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,UnitPrice,Stock
+1,Wireless Mouse,Electronics,950.0,120
+2,4K Smart TV,Electronics,28999.0,18
+3,Office Chair,Furniture,6999.0,42
+4,Laptop Stand,Accessories,1499.0,85
+5,Bluetooth Speaker,Electronics,3499.0,70
+6,Premium Backpack,Fashion,2499.0,90
+7,Air Fryer,Home Appliances,7999.0,28
+8,Woolen Blanket,Home,1899.0,76
+9,Coffee Maker,Home Appliances,5499.0,22
+10,Gaming Keyboard,Electronics,3999.0,55
+11,Desk Lamp,Home,1250.0,110
+12,Water Purifier,Home Appliances,18999.0,15

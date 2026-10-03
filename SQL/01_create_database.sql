@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS Week3_Sales;
+USE Week3_Sales;

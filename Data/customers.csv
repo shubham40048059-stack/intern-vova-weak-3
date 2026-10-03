@@ -1,0 +1,19 @@
+CustomerID,CustomerName,City,Email,CustomerType
+1,Ananya Sharma,Delhi,ananya.sharma@gmail.com,Retail
+2,Rohan Mehta,Mumbai,rohan.mehta@gmail.com,Wholesale
+3,Priya Nair,Bengaluru,priya.nair@gmail.com,Retail
+4,Aman Verma,Jaipur,aman.verma@gmail.com,Retail
+5,Sneha Iyer,Chennai,sneha.iyer@gmail.com,Corporate
+6,Karan Singh,Lucknow,karan.singh@gmail.com,Retail
+7,Neha Kapoor,Delhi,neha.kapoor@gmail.com,Corporate
+8,Vikram Rao,Hyderabad,vikram.rao@gmail.com,Retail
+9,Meera Joshi,Pune,meera.joshi@gmail.com,Wholesale
+10,Rahul Gupta,Kolkata,rahul.gupta@gmail.com,Retail
+11,Sonia Malhotra,Ahmedabad,sonia.malhotra@gmail.com,Retail
+12,Arjun Patel,Surat,arjun.patel@gmail.com,Corporate
+13,Nisha Reddy,Bengaluru,nisha.reddy@gmail.com,Retail
+14,Deepak Sharma,Noida,deepak.sharma@gmail.com,Retail
+15,Ishita Sen,Kolkata,ishita.sen@gmail.com,Wholesale
+16,Manav Khanna,Delhi,manav.khanna@gmail.com,Corporate
+17,Tanvi Sood,Chandigarh,tanvi.sood@gmail.com,Retail
+18,Harshit Jain,Indore,harshit.jain@gmail.com,Retail

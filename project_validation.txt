@@ -1,0 +1,6 @@
+Project created successfully.
+Customers: 18
+Products: 12
+Employees: 7
+Sales: 42
+Workbook: e:\weak 3 sql project\Week3_SQL_Excel_Assignment\Excel\Week3_Sales_Analysis.xlsx
